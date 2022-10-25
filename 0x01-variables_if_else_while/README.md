@@ -17,5 +17,7 @@
 -   6-print_numberz.c
     -   prints single digit numbers of base 10 starting from 0, followed by a new line, using only putchar twice.
     -   _char_ data type is not allowed.
+-   7-print_tebahpla.c
+    -   prints lowercase alphabets in reverse, using only putchar twice.
 
 ## Advanced
