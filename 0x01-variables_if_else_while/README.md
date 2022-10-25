@@ -28,7 +28,11 @@
 
 ## Advanced
 
--   100-print_combe.c
+-   100-print_comb3.c
     -   prints all possible different combinations of two digits
     -   numbers are separated by a comma and a space except for the last digits.
     -   putchar can only be used at max 5 times.
+-   101-print_comb4.c
+    -   prints all possible different combinations of three digits
+    -   numbers are separated by a comma and a space except for the last digits.
+    -   putchar can only be used at max 6 times.
