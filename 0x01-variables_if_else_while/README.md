@@ -36,3 +36,8 @@
     -   prints all possible different combinations of three digits
     -   numbers are separated by a comma and a space except for the last digits.
     -   putchar can only be used at max 6 times.
+-   102-print_comb5.c
+    -   prints all possible combinations of two two-digits numbers.
+    -   the two numbers are separated by a space
+    -   combination of numbers are separated by a comma and a space except for the last digits.
+    -   putchar can only be used at max 8 times.
