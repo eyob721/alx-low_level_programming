@@ -8,5 +8,7 @@
     - this program generates a random integer, then checks if the last digit is greater than 5, equal to 0, or is less than 6 but not equal to 0.
 2. 2-print_alphabet.c
     - prints lowercase alphabets followed by a new line, using only putchar twice.
+3. 3-print_alphabets.c
+    - prints lowercase then UPPERCASE letters followed by a new line, using only putchar 3 times.
 
 # Advanced
