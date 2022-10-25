@@ -9,6 +9,8 @@
 2. 2-print_alphabet.c
     - prints lowercase alphabets followed by a new line, using only putchar twice.
 3. 3-print_alphabets.c
-    - prints lowercase then UPPERCASE letters followed by a new line, using only putchar 3 times.
+    - prints lowercase then UPPERCASE alphabets followed by a new line, using only putchar 3 times.
+4. 4-print_alphabt.c
+    - prints lowercase alphabets except q and e followed by a new line, using only putchar twice.
 
 # Advanced
