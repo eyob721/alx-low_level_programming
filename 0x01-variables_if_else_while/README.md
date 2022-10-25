@@ -19,5 +19,7 @@
     -   _char_ data type is not allowed.
 -   7-print_tebahpla.c
     -   prints lowercase alphabets in reverse, using only putchar twice.
+-   8-print_base16.c
+    -   prints all base16 numbers in lowercase, followed by a new line, using putchar only 3 times.
 
 ## Advanced
