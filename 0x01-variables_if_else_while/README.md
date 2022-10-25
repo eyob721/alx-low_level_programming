@@ -22,7 +22,13 @@
 -   8-print_base16.c
     -   prints all base16 numbers in lowercase, followed by a new line, using putchar only 3 times.
 -   9-print_comb.c
-    -   prints all possible combinations of single digit numbers, in ascending order, followed by a new line
-    -   numbers are separated by a comma and a space except for the last digit
+    -   prints all possible combinations of single digit numbers, in ascending order, followed by a new line.
+    -   numbers are separated by a comma and a space except for the last digit.
+    -   putchar can only be used at max 4 times.
 
 ## Advanced
+
+-   100-print_combe.c
+    -   prints all possible different combinations of two digits
+    -   numbers are separated by a comma and a space except for the last digits.
+    -   putchar can only be used at max 5 times.
