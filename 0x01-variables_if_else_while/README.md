@@ -13,6 +13,9 @@
 -   4-print_alphabt.c
     -   prints lowercase alphabets except q and e followed by a new line, using only putchar twice.
 -   5-print_numbers.c
-    -   prints single digit numbers of base 10 starting from 0.
+    -   prints single digit numbers of base 10 starting from 0, followed by a new line.
+-   6-print_numberz.c
+    -   prints single digit numbers of base 10 starting from 0, followed by a new line, using only putchar twice.
+    -   _char_ data type is not allowed.
 
 ## Advanced
