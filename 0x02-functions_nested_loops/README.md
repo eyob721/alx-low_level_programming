@@ -17,5 +17,7 @@ For this project students are allowed to use only \_putchar.c function to comple
     -   a function that checks for lowercase character.
 -   4-isalpha.c
     -   a function that checks for alphabetic character.
+-   5-sign.c
+    -   a function that prints the sign of a number.
 
 ## Advanced
