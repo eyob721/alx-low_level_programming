@@ -1,5 +1,9 @@
 # 0x02. C - Functions, nested loops
 
+## \_putchar.c
+
+For this project students are allowed to use only \_putchar.c function to complete the tasks. Using the standard library is not allowed, unless mentioned otherwise.
+
 ## Mandatory
 
 -   0-putchar.c
@@ -11,5 +15,7 @@
     -   \_putchar can only be used twice
 -   3-islower.c
     -   a function that checks for lowercase character.
+-   4-isalpha.c
+    -   a function that checks for alphabetic character.
 
 ## Advanced
