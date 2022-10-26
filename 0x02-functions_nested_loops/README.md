@@ -1,5 +1,8 @@
-## 0x02. C - Functions, nested loops
+# 0x02. C - Functions, nested loops
 
-### Mandatory
+## Mandatory
 
-### Advanced
+-   0-putchar.c
+    -   a program that prints the string "\_putchar" followed by a new line.
+
+## Advanced

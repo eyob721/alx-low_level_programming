@@ -1,6 +1,6 @@
-## 0x00. C - Hello, World
+# 0x00. C - Hello, World
 
-### Mandatory
+## Mandatory
 
 0. 0-preprocessor
     - a script that writes preprocessor output of a c code, where its name is stored in the variable CFILE, into a file called c.
@@ -18,7 +18,7 @@
 6. 6-size.c
     - a c program that prints the sizes for different data types in either a 32bit or 64bit machine.
 
-### Advanced
+## Advanced
 
 7. 100-intel
     - a script that generates the assembly code of a c code, where its name is stored in the variable CFILE, in intel syntax.
