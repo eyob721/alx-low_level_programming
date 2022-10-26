@@ -19,7 +19,12 @@ For this project students are allowed to use only \_putchar.c function to comple
     -   a function that checks for alphabetic character.
 -   5-sign.c
     -   a function that prints the sign of a number.
+    -   returns 1 (if the number is greater than 0)
+    -   returns 0 (if the number is equal to 0)
+    -   returns -1 (if the number is less than 0)
 -   6-abs.c
-    -   a function that computes the absolute value of an integer.
+    -   a function that computes and returns the absolute value of an integer.
+-   7-print_last_digit
+    -   a function that prints and returns the last digit of an integer.
 
 ## Advanced
