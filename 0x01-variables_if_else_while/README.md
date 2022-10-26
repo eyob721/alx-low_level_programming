@@ -1,6 +1,6 @@
-# 0x01. C - Variables, if, else, while
+## 0x01. C - Variables, if, else, while
 
-## Mandatory
+### Mandatory
 
 -   0-positive_or_negative.c
     -   a program the generates a random integer, and checks if it is positive, negative or a zero number.
@@ -26,7 +26,7 @@
     -   numbers are separated by a comma and a space except for the last digit.
     -   putchar can only be used at max 4 times.
 
-## Advanced
+### Advanced
 
 -   100-print_comb3.c
     -   prints all possible different combinations of two digits
