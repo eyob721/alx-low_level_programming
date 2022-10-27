@@ -28,5 +28,7 @@ For this project students are allowed to use only \_putchar.c function to comple
     -   a function that prints and returns the last digit of an integer.
 -   8-24_hours.c
     -   a function that prints every minute of the day of Jack Bauer starting from 00:00 to 23:59.
+-   9-times_table.c
+    -   a function that prints the 9 times table, starting with 0.
 
 ## Advanced
