@@ -32,5 +32,8 @@ For this project students are allowed to use only \_putchar.c function to comple
     -   a function that prints the 9 times table, starting with 0.
 -   10-add.c
     -   a functions that adds two integers and returns the result.
+-   11-print_to_98.c
+    -   a function that prints all natural numbers from n to 98.
+    -   it is allowed to use standard library.
 
 ## Advanced
