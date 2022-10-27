@@ -48,3 +48,5 @@ For this project students are allowed to use only \_putchar.c function to comple
     -   a program that prints the first 50 fibonacci numbers starting from 1 and 2.
 -   103-fibonacci.c
     -   a program that prints the sum of the even numbers in the fibonacci sequence which are under 4,000,000.
+-   104-fibonacci.c
+    -   a program that prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
