@@ -37,3 +37,8 @@ For this project students are allowed to use only \_putchar.c function to comple
     -   it is allowed to use standard library.
 
 ## Advanced
+
+-   100-times_table.c
+    -   a function that prints the n times table, starting from 0.
+    -   n is an integer passed to the function.
+    -   if n is greater than 15 or less than 0, it prints nothing.
