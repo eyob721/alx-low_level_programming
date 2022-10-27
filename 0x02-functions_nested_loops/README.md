@@ -42,3 +42,5 @@ For this project students are allowed to use only \_putchar.c function to comple
     -   a function that prints the n times table, starting from 0.
     -   n is an integer passed to the function.
     -   if n is greater than 15 or less than 0, it prints nothing.
+-   101-natural.c
+    -   a program that computes the sum of all the multiples of 3 or 5 below 1024 (excluded).
