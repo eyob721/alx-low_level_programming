@@ -46,3 +46,5 @@ For this project students are allowed to use only \_putchar.c function to comple
     -   a program that computes the sum of all the multiples of 3 or 5 below 1024 (excluded).
 -   102-fibonacci.c
     -   a program that prints the first 50 fibonacci numbers starting from 1 and 2.
+-   103-fibonacci.c
+    -   a program that prints the sum of the even numbers in the fibonacci sequence which are under 4,000,000.
