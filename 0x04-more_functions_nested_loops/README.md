@@ -12,5 +12,7 @@
     -   a function that prints numbers from 0 to 9, followed by a new line.
 -   4-print_most_numbers.c
     -   a function that prints numbers from 0 to 9, except for 2 and 4, followed by a new line.
+-   5-more_numbers.c
+    -   a function that prints numbers from 0 to 14, followed by a newline, x10 times.
 
 ## Optional
