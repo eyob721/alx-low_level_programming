@@ -4,5 +4,7 @@
 
 -   0-isupper.c
     -   a function that checks if a character is an UPPERCASE character.
+-   1-isdigit.c
+    -   a function that checks if a character is a digit (0 - 9).
 
 ## Optional
