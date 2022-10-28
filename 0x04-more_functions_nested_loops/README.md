@@ -8,5 +8,7 @@
     -   a function that checks if a character is a digit (0 - 9).
 -   2-mul.c
     -   a function that multiplies two integers.
+-   3-print_numbers.c
+    -   a function that prints the numbers, from 0 to 9, followed by a new line.
 
 ## Optional
