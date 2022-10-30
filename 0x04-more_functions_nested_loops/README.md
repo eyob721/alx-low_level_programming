@@ -23,5 +23,7 @@
 -   9-fizz_buzz.c
     -   this program is a solution to the Fizz-Buzz test
     -   it prints numbers from 1 to 100, but if the number is a multiple of 3 it prints 'Fizz', if it is a multiple of 5 it prints 'Buzz', and if it is a multiple of both 3 and 5 it prints 'FizzBuzz'.
+-   10-print_triangle.c
+    -   a function that prints a triangle using the character '#', followed by a new line.
 
 ## Optional
