@@ -30,3 +30,5 @@
 
 -   100-prime_factor.c
     -   a program that computes and prints the largest prime factor of the number 612852475143.
+-   101-print_number.c
+    -   a function that prints an integer, using only putchar.
