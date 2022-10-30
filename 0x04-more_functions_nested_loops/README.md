@@ -17,6 +17,8 @@
 -   6-print_line.c
     -   a function that draws a straight line in the terminal, by printing the symbol '\_' n number of times.
 -   7-print_diagonal.c
-    -   a function that draws a diagonal line on the terminal by using the character \\.
+    -   a function that draws a diagonal line on the terminal by using the character '\\' n number of times.
+-   8-print_square.c
+    -   a function that prints a square using the character '#', followed by a new line.
 
 ## Optional
