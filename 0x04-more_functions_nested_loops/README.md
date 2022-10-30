@@ -20,5 +20,8 @@
     -   a function that draws a diagonal line on the terminal by using the character '\\' n number of times.
 -   8-print_square.c
     -   a function that prints a square using the character '#', followed by a new line.
+-   9-fizz_buzz.c
+    -   this program is a solution to the Fizz-Buzz test
+    -   it prints numbers from 1 to 100, but if the number is a multiple of 3 it prints 'Fizz', if it is a multiple of 5 it prints 'Buzz', and if it is a multiple of both 3 and 5 it prints 'FizzBuzz'.
 
 ## Optional
