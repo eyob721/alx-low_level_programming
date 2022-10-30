@@ -15,6 +15,8 @@
 -   5-more_numbers.c
     -   a function that prints numbers from 0 to 14, followed by a newline, x10 times.
 -   6-print_line.c
-    -   a functions that draws a straight line in the terminal, by printing the symbol '\_' n number of times.
+    -   a function that draws a straight line in the terminal, by printing the symbol '\_' n number of times.
+-   7-print_diagonal.c
+    -   a function that draws a diagonal line on the terminal by using the character \\.
 
 ## Optional
