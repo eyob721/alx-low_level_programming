@@ -7,6 +7,8 @@
 -   1-swap.c
     -   a function that swaps the values of two integers.
 -   2-strlen.c
-    -   a function that return the length of a string, similar to the string function strlen().
+    -   a function that return the length of a string. Similar to the string function strlen().
+-   3-puts.c
+    -   a function that prints a string, followed by a new line. Similar to the puts() function.
 
 ## Advanced
