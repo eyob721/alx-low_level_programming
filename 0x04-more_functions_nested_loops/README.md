@@ -26,7 +26,7 @@
 -   10-print_triangle.c
     -   a function that prints a triangle using the character '#', followed by a new line.
 
-## Optional
+## Advanced
 
 -   100-prime_factor.c
     -   a program that computes and prints the largest prime factor of the number 612852475143.
