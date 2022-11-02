@@ -18,5 +18,7 @@
     -   a function that prints every other character in a string, starting with the first character, followed by a new line.
 -   7-puts_half.c
     -   a function that prints the second half of a string.
+-   8-print_array.c
+    -   a function that prints n number of elements, from an array of integers.
 
 ## Advanced
