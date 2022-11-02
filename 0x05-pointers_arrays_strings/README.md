@@ -16,5 +16,7 @@
     -   a function that reverses a given string.
 -   6-puts.c
     -   a function that prints every other character in a string, starting with the first character, followed by a new line.
+-   7-puts_half.c
+    -   a function that prints the second half of a string.
 
 ## Advanced
