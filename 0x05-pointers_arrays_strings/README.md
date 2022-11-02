@@ -20,5 +20,7 @@
     -   a function that prints the second half of a string.
 -   8-print_array.c
     -   a function that prints n number of elements, from an array of integers.
+-   9-strcpy.c
+    -   a function that copies the string pointed by src, including the null character, to the buffer pointed by dest. Similar to the strcpy() string function.
 
 ## Advanced
