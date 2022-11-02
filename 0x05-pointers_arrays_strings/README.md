@@ -10,5 +10,7 @@
     -   a function that return the length of a string. Similar to the string function strlen().
 -   3-puts.c
     -   a function that prints a string, followed by a new line. Similar to the puts() function.
+-   4-print_rev.c
+    -   a function that prints a string in reverse.
 
 ## Advanced
