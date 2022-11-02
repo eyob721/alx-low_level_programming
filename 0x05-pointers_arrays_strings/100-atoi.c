@@ -8,24 +8,18 @@
  */
 int _atoi(char *s)
 {
-	unsigned int i, j, k, sign = 1, num = 0, power = 1;
+	unsigned int i, j, sign = 1, num = 0;
 
 	for (i = 0; s[i] != '\0'; i++)
 		if (s[i] == '-')
 			sign *= -1;
 		else if (s[i] > 47 && s[i] < 58)
 			break;
+	/* If there are no numbers return 0 */
 	if (s[i] == '\0')
 		return (num);
+	/* If there are numbers then return the number */
 	for (j = i; s[j] > 47 && s[j] < 58; j++)
-		;
-	j--;
-	for (k = 0; k < j - i; k++)
-		power *= 10;
-	for (k = i; k < j + 1; k++)
-	{
-		num += (s[k] - '0') * power;
-		power /= 10;
-	}
+		num = (s[j] - '0') + num * 10;
 	return (num * sign);
 }
