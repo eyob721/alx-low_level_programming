@@ -12,5 +12,7 @@
     -   a function that prints a string, followed by a new line. Similar to the puts() function.
 -   4-print_rev.c
     -   a function that prints a string in reverse.
+-   5-rev_string.c
+    -   a function that reverses a given string.
 
 ## Advanced
