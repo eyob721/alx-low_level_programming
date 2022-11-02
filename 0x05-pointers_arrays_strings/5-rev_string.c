@@ -8,11 +8,15 @@
  */
 void rev_string(char *s)
 {
-	int i, j;
-	char copy[10000] = {'\0'};
+	int i, j, length = 0;
+	char temp;
 
 	for (i = 0; s[i] != '\0'; i++)
-		copy[i] = s[i];
-	for (--i, j = 0; i > -1; i--, j++)
-		s[j] = copy[i];
+		length++;
+	for (i = 0, j = length - 1; i < length / 2; i++, j--)
+	{
+		temp = s[i];
+		s[i] = s[j];
+		s[j] = temp;
+	}
 }
