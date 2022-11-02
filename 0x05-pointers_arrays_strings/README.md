@@ -24,3 +24,6 @@
     -   a function that copies the string pointed by src, including the null character, to the buffer pointed by dest. Similar to the strcpy() string function.
 
 ## Advanced
+
+-   100-atoi.c
+    -   a function that converts a string into an integer. Similar to the function atoi().
