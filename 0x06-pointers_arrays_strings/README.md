@@ -23,3 +23,5 @@
 
 -   100-rot13.c
     -   a function that encodes a string using rot13, using two loops and one if statement.
+-   101-print_number.c
+    -   a function that prints a number, using putchar.
