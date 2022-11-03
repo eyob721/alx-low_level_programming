@@ -12,5 +12,7 @@
     -   a function that compares two strings. Similar to the string function strcmp().
 -   4-rev_array.c
     -   a function that reverses an array.
+-   5-string_toupper.c
+    -   a function that converts lowercase letters in a string to upper case.
 
 ## Advanced
