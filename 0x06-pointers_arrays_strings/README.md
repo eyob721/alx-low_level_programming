@@ -20,3 +20,6 @@
     -   a function that encodes a string into 1337, using two loops and one if statement.
 
 ## Advanced
+
+-   100-rot13.c
+    -   a function that encodes a string using rot13, using two loops and one if statement.
