@@ -16,5 +16,7 @@
     -   a function that converts lowercase letters in a string to upper case.
 -   6-cap_string.c
     -   a function that capitalizes all words of a string.
+-   7-leet.c
+    -   a function that encodes a string into 1337, using two loops and one if statement.
 
 ## Advanced
