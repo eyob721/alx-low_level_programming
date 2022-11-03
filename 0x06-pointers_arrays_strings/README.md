@@ -14,5 +14,7 @@
     -   a function that reverses an array.
 -   5-string_toupper.c
     -   a function that converts lowercase letters in a string to upper case.
+-   6-cap_string.c
+    -   a function that capitalizes all words of a string.
 
 ## Advanced
