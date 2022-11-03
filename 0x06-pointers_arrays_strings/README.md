@@ -10,5 +10,7 @@
     -   a function that copies a string. Similar to the string function strncpy().
 -   3-strcmp.c
     -   a function that compares two strings. Similar to the string function strcmp().
+-   4-rev_array.c
+    -   a function that reverses an array.
 
 ## Advanced
