@@ -10,5 +10,7 @@
     -   a function that locates a character in a string. Similar to the string function strchr().
 -   3-strspn.c
     -   a function that gets the length of a prefix substring. Similar to the string function strspn().
+-   4-strpbrk.c
+    -   a function that searches a string for any of a set of bytes. Similar to the string function strpbrk().
 
 ## Advanced
