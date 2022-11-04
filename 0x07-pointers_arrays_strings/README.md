@@ -16,5 +16,7 @@
     -   a function that locates a substring. Similar to the string function strstr().
 -   7-print_chessboard.c
     -   a function that prints the chessboard.
+-   8-print_diagsums.c
+    -   a function that prints the sum of the two diagonals of a square matrix of integers.
 
 ## Advanced
