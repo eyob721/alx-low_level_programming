@@ -14,5 +14,7 @@
     -   a function that searches a string for any of a set of bytes. Similar to the string function strpbrk().
 -   5-strstr.c
     -   a function that locates a substring. Similar to the string function strstr().
+-   7-print_chessboard.c
+    -   a function that prints the chessboard.
 
 ## Advanced
