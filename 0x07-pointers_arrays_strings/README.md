@@ -2,4 +2,7 @@
 
 ## Mandatory
 
+-   0-memset.c
+    -   a function that fills the memory with a constant byte
+
 ## Advanced
