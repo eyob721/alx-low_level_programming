@@ -2,4 +2,7 @@
 
 ## Mandatory
 
+-   0-puts_recursion.c
+    -   prints a string, followed by a new line, using recursion. Similar to the function puts().
+
 ## Advanced
