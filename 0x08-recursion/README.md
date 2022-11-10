@@ -7,10 +7,12 @@
 -   1-print_rev_recursion.c
     -   prints a string in reverse.
 -   2-strlen_recursion.c
-    -   returns the length of a string, similar to the function strlen(), using recursion.
+    -   returns the length of a string, similar to the function strlen, using recursion.
 -   3-factorial.c
     -   returns the factorial of a given number, using recursion.
 -   4-pow_recursion.c
-    -   returns the value of a given number raised to some power, using recursion. Similar to the function pow().
+    -   returns the value of a given number raised to some power, using recursion. Similar to the function pow.
+-   5-sqrt_recursion.c
+    -   returns the natural square root of a given number, using recursion. Similar to the function sqrt.
 
 ## Advanced
