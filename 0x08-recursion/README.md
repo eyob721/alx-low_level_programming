@@ -14,5 +14,7 @@
     -   returns the value of a given number raised to some power, using recursion. Similar to the function pow.
 -   5-sqrt_recursion.c
     -   returns the natural square root of a given number, using recursion. Similar to the function sqrt.
+-   6-is_prime_number.c
+    -   checks if a number is prime or not by returning 1 if a number is prime, 0 otherwise.
 
 ## Advanced
