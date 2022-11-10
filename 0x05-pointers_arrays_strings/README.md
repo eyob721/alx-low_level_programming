@@ -7,9 +7,9 @@
 -   1-swap.c
     -   a function that swaps the values of two integers.
 -   2-strlen.c
-    -   a function that return the length of a string. Similar to the string function strlen().
+    -   a function that return the length of a string. Similar to the string function <i>strlen</i>.
 -   3-puts.c
-    -   a function that prints a string, followed by a new line. Similar to the puts() function.
+    -   a function that prints a string, followed by a new line. Similar to the <i>puts</i> function.
 -   4-print_rev.c
     -   a function that prints a string in reverse.
 -   5-rev_string.c
@@ -21,7 +21,7 @@
 -   8-print_array.c
     -   a function that prints n number of elements, from an array of integers.
 -   9-strcpy.c
-    -   a function that copies the string pointed by src, including the null character, to the buffer pointed by dest. Similar to the strcpy() string function.
+    -   a function that copies the string pointed by src, including the null character, to the buffer pointed by dest. Similar to the <i>strcpy</i> string function.
 
 ## Advanced
 

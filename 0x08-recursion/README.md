@@ -3,7 +3,7 @@
 ## Mandatory
 
 -   0-puts_recursion.c
-    -   prints a string, followed by a new line, using recursion. Similar to the function puts().
+    -   prints a string, followed by a new line, using recursion. Similar to the function <i>puts</i>.
 -   1-print_rev_recursion.c
     -   prints a string in reverse.
 -   2-strlen_recursion.c
@@ -11,9 +11,9 @@
 -   3-factorial.c
     -   returns the factorial of a given number, using recursion.
 -   4-pow_recursion.c
-    -   returns the value of a given number raised to some power, using recursion. Similar to the function pow.
+    -   returns the value of a given number raised to some power, using recursion. Similar to the function <i>pow</i>.
 -   5-sqrt_recursion.c
-    -   returns the natural square root of a given number, using recursion. Similar to the function sqrt.
+    -   returns the natural square root of a given number, using recursion. Similar to the function <i>sqrt</i>.
 -   6-is_prime_number.c
     -   checks if a number is prime or not by returning 1 if a number is prime, 0 otherwise.
 
