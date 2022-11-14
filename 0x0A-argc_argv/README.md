@@ -14,3 +14,6 @@
     -   a program that prints the sum of the given numbers, as arguments.
 
 ## Advanced
+
+-   100-change.c
+    -   a program that prints the minimum number of coins to make change for an amount of money.
