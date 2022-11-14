@@ -10,5 +10,7 @@
     -   a program that prints all the arguments passed to it.
 -   3-mul.c
     -   a program that prints the product of two numbers.
+-   4-add.c
+    -   a program that prints the sum of the given numbers, as arguments.
 
 ## Advanced
