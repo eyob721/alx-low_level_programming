@@ -8,7 +8,7 @@
  */
 char **strtow(char *str)
 {
-	int i, j, k, l, wc = 0, len, error = 0;
+	int i, j, k, l, wc = 0, len;
 	char **words;
 
 	if (str == NULL || *str == '\0')
@@ -33,10 +33,7 @@ char **strtow(char *str)
 			i++;
 		words[k] = (char *) malloc(len * sizeof(char));
 		if (words[k] == NULL)
-		{
-			error = 1;
-			break;
-		}
+			return (NULL);
 		for (l = 0; l < len; l++, j++)
 			words[k][l] = str[j];
 	}
