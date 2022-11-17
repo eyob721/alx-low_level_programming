@@ -8,5 +8,8 @@
     -   a function that returns a pointer to a newly allocated space on heap, which contains a copy of a string given as a parameter. The memory is allocated using malloc, and so it can be freed. Similar to the function strdup.
 -   2-str_concat.c
     -   a function that returns a pointer to a newly allocated memory that contains a concatenated string of two strings, given as parameters. The memory is allocated using malloc. It returns NULL if there is failure in allocating memory.
+-   3-alloc_grid.c
+    -   a function that dynamically allocates a 2d array of integers. It takes two parameters, width and height of the 2d array.
+    -   The array is initialized to 0, and it returns NULL on failure. If the width and height arguments passed to the 2d array are 0 or less, it returns NULL.
 
 ## Advanced
