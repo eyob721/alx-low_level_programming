@@ -20,10 +20,11 @@ char **strtow(char *str)
 		return (NULL);
 	if (str[i - 1] != ' ')
 		wc++;
-	words = (char **) malloc((wc + 1) * sizeof(char *));
+	wc++;
+	words = (char **) malloc(wc * sizeof(char *));
 	if (words == NULL)
 		return (NULL);
-	for (i = 0, k = 0; k < wc + 1; i++, k++)
+	for (i = 0, k = 0; k < wc - 1; i++, k++)
 	{
 		while (str[i] == ' ')
 			i++;
@@ -39,13 +40,7 @@ char **strtow(char *str)
 		for (l = 0; l < len; l++, j++)
 			words[k][l] = str[j];
 	}
-	if (error)
-	{
-		for (i = 0; i < wc; i++)
-			free(words[i]);
-		free(words);
-		return (NULL);
-	}
+
 	words[k] = NULL;
 	return (words);
 }
