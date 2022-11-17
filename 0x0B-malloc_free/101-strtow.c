@@ -29,7 +29,7 @@ char **strtow(char *str)
 		while (str[i] == ' ')
 			i++;
 		j = i;
-		for (len = 0; str[i] != ' ' && str[i] != '\0'; len++)
+		for (len = 1; str[i] != ' ' && str[i] != '\0'; len++)
 			i++;
 		words[k] = (char *) malloc(len * sizeof(char));
 		if (words[k] == NULL)
