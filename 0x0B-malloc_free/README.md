@@ -6,5 +6,7 @@
     -   a function that creates an array of chars on heap, and initializes it with a specific character. It returns a pointer to the char array.
 -   1-strdup.c
     -   a function that returns a pointer to a newly allocated space on heap, which contains a copy of a string given as a parameter. The memory is allocated using malloc, and so it can be freed. Similar to the function strdup.
+-   2-str_concat.c
+    -   a function that returns a pointer to a newly allocated memory that contains a concatenated string of two strings, given as parameters. The memory is allocated using malloc. It returns NULL if there is failure in allocating memory.
 
 ## Advanced
