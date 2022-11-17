@@ -20,10 +20,10 @@ char **strtow(char *str)
 		return (NULL);
 	if (str[i - 1] != ' ')
 		wc++;
-	words = (char **) malloc(wc * sizeof(char *));
+	words = (char **) malloc((wc + 1) * sizeof(char *));
 	if (words == NULL)
 		return (NULL);
-	for (i = 0, k = 0; k < wc; i++, k++)
+	for (i = 0, k = 0; k < wc + 1; i++, k++)
 	{
 		while (str[i] == ' ')
 			i++;
