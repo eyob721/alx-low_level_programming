@@ -18,3 +18,5 @@
 
 -   100-argstostr.c
     -   a function that return a string that contains all the arguments of a program concatenated together, with a new line added after each argument.
+-   101-strtow.c
+    -   a function that splits a given string into words. It returns an array of words.
