@@ -15,3 +15,6 @@
     -   a function that frees a 2d grid that was previously allocated ny the function alloc_grid.
 
 ## Advanced
+
+-   100-argstostr.c
+    -   a function that return a string that contains all the arguments of a program concatenated together, with a new line added after each argument.
