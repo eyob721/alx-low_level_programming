@@ -11,5 +11,7 @@
 -   3-alloc_grid.c
     -   a function that dynamically allocates a 2d array of integers. It takes two parameters, width and height of the 2d array.
     -   The array is initialized to 0, and it returns NULL on failure. If the width and height arguments passed to the 2d array are 0 or less, it returns NULL.
+-   4-free_grid.c
+    -   a function that frees a 2d grid that was previously allocated ny the function alloc_grid.
 
 ## Advanced
