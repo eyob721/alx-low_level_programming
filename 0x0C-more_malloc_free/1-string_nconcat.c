@@ -25,7 +25,10 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 		len2++;
 	/* Check if n is less than length of s2 */
 	/* And determine the length of the concatenated string */
-	size = len1 + len2 + 1;
+	if (n < len2)
+		size = len1 + n + 1;
+	else
+		size = len1 + len2 + 1;
 	/* Now allocate memory using the computed size */
 	str = malloc(size);
 	/* If memory allocation has failed, return NULL */
