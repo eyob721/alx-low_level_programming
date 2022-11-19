@@ -30,7 +30,7 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	else
 		size = len1 + len2 + 1;
 	/* Now allocate memory using the computed size */
-	str = malloc(size);
+	str = malloc(size * sizeof(char));
 	/* If memory allocation has failed, return NULL */
 	if (str == NULL)
 		return (NULL);
