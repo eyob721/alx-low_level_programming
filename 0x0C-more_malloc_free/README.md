@@ -12,3 +12,7 @@
     -   a function that creates an array of integers. The function takes two integers as arguments (min and max integers) and returns a pointer to the array. The array contains values all integers starting from min(included) to max(included), and ordered from min to max.
 
 ## Advanced
+
+-   100-realloc.c
+    -   a function that reallocates a memory block using malloc and free. The function takes a pointer to the memory block, old size of the memory block, and the new size of the reallocated memory as an argument.
+-   The function returns a pointer to the reallocated memory. Similar to the function realloc.
