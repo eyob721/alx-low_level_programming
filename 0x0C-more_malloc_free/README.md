@@ -8,5 +8,7 @@
     -   a function that concatenates two strings. The function takes as an argument two strings and number of bytes (n) as an integer. The function concatenates the first n bytes from the second string to the first string. If n is greater than the length of the second string, it concatenates the whole second string to the first string, it doesn't go beyond that.
 -   2-calloc.c
     -   a function that allocates memory for an array, using malloc. Similar to the function calloc.
+-   3-array_range.c
+    -   a function that creates an array of integers. The function takes two integers as arguments (min and max integers) and returns a pointer to the array. The array contains values all integers starting from min(included) to max(included), and ordered from min to max.
 
 ## Advanced
